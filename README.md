@@ -25,7 +25,7 @@ notice, you need client and server runs concurrently in different terminal sessi
 $ cd client   // go to client folder
 $ npm i       // npm install packages
 $ npm run dev // run it locally
-
+```
 
 ## Server-side usage(PORT: 8000
 
